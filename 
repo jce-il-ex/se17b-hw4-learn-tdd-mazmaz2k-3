@@ -1,0 +1,29 @@
+[33mcommit d44f4cf2776632db06112d5aa81664fcd8122c1d[m
+Author: mazmaz2k <mazmaz2k@gmail.com>
+Date:   Wed May 17 17:39:34 2017 +0300
+
+    RED : cannot find cash.js
+
+[33mcommit 32362513ab609c28f545732de0c411a5b7fd6f82[m
+Author: Reuven Y <robi@post.jce.ac.il>
+Date:   Sun May 14 10:58:02 2017 +0300
+
+    npm test
+
+[33mcommit 66ad71141e9e2eeba2a631b1122065419bf775cf[m
+Author: Reuven Y <robi@post.jce.ac.il>
+Date:   Sun May 14 10:46:58 2017 +0300
+
+    prerequisites
+
+[33mcommit 57b6f9355e428a36d42f71857d5b31b8b47192f2[m
+Author: Reuven Y <robi@post.jce.ac.il>
+Date:   Sun May 14 10:37:44 2017 +0300
+
+    run mocha without path to bin
+
+[33mcommit 23f0dff7f8b1253a99840c6bfcd2c6b9f668da14[m
+Author: Reuven Yagel <robi@post.jce.ac.il>
+Date:   Sat May 13 22:34:42 2017 +0300
+
+    base commit
