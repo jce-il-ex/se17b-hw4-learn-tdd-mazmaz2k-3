@@ -1,4 +1,4 @@
-Learn Mocha [![Build Status](https://travis-ci.org/jce-il/learn-mocha.png?branch=master)](https://travis-ci.org/jce-il/learn-mocha) [![Test Coverage](https://codeclimate.com/github/jce-il/learn-mocha/badges/coverage.svg)](https://codeclimate.com/github/jce-il/learn-mocha/coverage) [![Code Climate](https://codeclimate.com/github/jce-il/learn-mocha.png)](https://codeclimate.com/github/jce-il/learn-mocha) [![Issue Count](https://codeclimate.com/github/jce-il/learn-mocha/badges/issue_count.svg)](https://codeclimate.com/github/jce-il/learn-mocha) [![devDependencies Status](https://david-dm.org/jce-il/learn-mocha/dev-status.svg)](https://david-dm.org/jce-il/learn-mocha?type=dev)
+Learn Mocha [![Build Status](https://travis-ci.org/jce-il-ex/se17b-hw4-learn-tdd-mazmaz2k-3.svg?branch=master)](https://travis-ci.org/jce-il/learn-mocha) [![Test Coverage](https://codeclimate.com/github/jce-il/learn-mocha/badges/coverage.svg)](https://codeclimate.com/github/jce-il/learn-mocha/coverage) [![Code Climate](https://codeclimate.com/github/jce-il/learn-mocha.png)](https://codeclimate.com/github/jce-il/learn-mocha) [![Issue Count](https://codeclimate.com/github/jce-il/learn-mocha/badges/issue_count.svg)](https://codeclimate.com/github/jce-il/learn-mocha) [![devDependencies Status](https://david-dm.org/jce-il/learn-mocha/dev-status.svg)](https://david-dm.org/jce-il/learn-mocha?type=dev)
 ===========
 
 *A Quick Guide* to **mocha.js**: Test Driven Development (TDD) in **node.js** and other Vsersion Control and Continuous Integration (CI) Tools
@@ -20,7 +20,7 @@ For students, follow these steps:
 - Name:  Omri mizrahi
 - ID#:303082549
 - github username:mazmaz2k   
-- Estimation of hours I worked on it: 2h
+- Estimation of hours I worked on it: 3h
 
 If you have an improvement suggestion or a bug fix for this tutorial, please open an issue [here](https://github.com/jce-il/learn-mocha/issues) or send a PR with a fix.
 
@@ -459,7 +459,7 @@ There are other tool that can be chained, see for example the badges in the begi
 
 Update the link below in the README file, to point to **your** repository status (as well as in the beginning).
 
-[![Travis Build Status](https://travis-ci.org/jce-il/learn-mocha.svg)](https://travis-ci.org/jce-il/learn-mocha)
+[![Travis Build Status](https://travis-ci.org/jce-il-ex/se17b-hw4-learn-tdd-mazmaz2k-3.svg?branch=master)](https://travis-ci.org/jce-il/learn-mocha)
 
 ![REFACTOR](https://raw.github.com/jce-il/learn-mocha/master/images/blue-circle-icon.png "REFACTOR")
 
